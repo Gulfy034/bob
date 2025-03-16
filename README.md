@@ -1,4 +1,5 @@
-# bob
-it adds bob to godot 4x fr fr no cap
+# sub-bob
 
-do what you want with it i dont even care lol
+forked version of bob.
+
+the original bob is here 👉[bob](https://github.com/quiteliterallyahuman/bob).
